@@ -1,0 +1,1 @@
+soumith, you bought['Milk', 'Water'] and your total order is 6
